@@ -38,7 +38,7 @@ En resumen, el objetivo principal del proyecto es utilizar el análisis de datos
 
 El proyecto se desarrolló siguiendo estos aspectos clave:
 - Análisis exploratorio de datos y Preprocesamiento de datos: [EDA y ETL link](https://github.com/Yuliedpardo/PI_DA/blob/main/EDA_homicidios.ipynb)
-- Desarrollo de Funciones API: [Desarrollo de los KPIS link](https://github.com/Yuliedpardo/PI_DA/blob/main/KPIS.ipynb)
+- Desarrollo KPIS: [Desarrollo de los KPIS link](https://github.com/Yuliedpardo/PI_DA/blob/main/KPIS.ipynb)
 
 </br>
 
@@ -50,8 +50,6 @@ El proyecto se desarrolló siguiendo estos aspectos clave:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -84,9 +82,10 @@ Utilizando los datos resultantes del proceso ETL, se llevó a cabo un análisis 
 
 A medida que se desentrañaban los entresijos de los datos, se tomaron decisiones críticas que influyeron en la dirección del proyecto. La identificación de patrones y atributos relevantes se convirtió en un pilar esencial para construir la base de las funciones API y el sistema de recomendación que se desarrollaría posteriormente. La calidad del análisis realizado durante el EDA estableció el terreno para la creación de soluciones sólidas y eficientes que aprovecharían al máximo la información extraída de los datos procesados en la etapa de ETL.
 
-![Distribución de Edades de las Víctimas](https://github.com/Yuliedpardo/PI_DA/blob/main/distribucion_tipo_calle.jpg?raw=true)
 
-
+<p align="center">
+  <img src="tipo de calle.png" width="350" title="hover text">
+</p>
 
 
 Este proceso integral, que abarcó desde la transformación de datos hasta el análisis exploratorio y la construcción de soluciones tecnológicas avanzadas, encapsula la esencia misma del proyecto. Cada paso contribuyó de manera sinérgica para dar vida a una plataforma sólida y versátil, preparada para ofrecer recomendaciones precisas y una experiencia de usuario excepcional.
