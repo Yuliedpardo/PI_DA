@@ -272,7 +272,7 @@ Este KPI se enfoca en medir la evolución de la tasa de homicidios en siniestros
 
 - **Análisis de causas:** Sería útil profundizar en las razones detrás de las variaciones en la tasa de homicidios en siniestros viales, como cambios en las políticas de seguridad vial, mejoras en la infraestructura vial, o la influencia de eventos externos como la pandemia.
 
-![Reducción del 10% en la tasa de homicidios en siniestros viales en CABA en comparación con el semestre anterio](https://github.com/Yuliedpardo/PI_DA/blob/main/imagenes/victimas_por_mes.png)
+![Reducción del 10% en la tasa de homicidios en siniestros viales en CABA en comparación con el semestre anterio](https://github.com/Yuliedpardo/PI_DA/blob/main/imagenes/reduccion_tasa_homicidios_KPI1.png)
 
 
 **KPI 2: Reducción del 7% en la cantidad de accidentes mortales de motociclistas en CABA en el último año en comparación con el año anterior**
@@ -289,7 +289,7 @@ Este KPI se centra en evaluar la evolución de la cantidad de accidentes mortale
 
 - **Análisis de causas:** Para entender las fluctuaciones en este KPI, sería importante analizar factores como las medidas de seguridad específicas para motociclistas, el aumento en la cantidad de motociclistas en la ciudad y la aplicación de políticas de tráfico.
 
-![Reducción del 7% en la cantidad de accidentes mortales de motociclistas en CABA en el último año en comparación con el año anterio](https://github.com/Yuliedpardo/PI_DA/blob/main/imagenes/victimas_por_mes.png)
+![Reducción del 7% en la cantidad de accidentes mortales de motociclistas en CABA en el último año en comparación con el año anterio](https://github.com/Yuliedpardo/PI_DA/blob/main/imagenes/reduccion_accidentes_motociclistas_KPI2.png)
 
 
 
@@ -321,7 +321,7 @@ Este KPI se centra en evaluar la evolución de la cantidad de accidentes mortale
 
 Este análisis corregido toma en cuenta que el índice de víctimas se refiere a la cantidad de víctimas por cada 100,000 habitantes, lo que proporciona una evaluación más precisa de la seguridad vial en cada comuna en relación con su población.
 
-![Análisis del Índice de Víctimas por Siniestros Viales por Comuna (por cada 100,000 habitantes](https://github.com/Yuliedpardo/PI_DA/blob/main/imagenes/victimas_por_mes.png)
+![Análisis del Índice de Víctimas por Siniestros Viales por Comuna (por cada 100,000 habitantes](https://github.com/Yuliedpardo/PI_DA/blob/main/imagenes/indice_victimas_KPI3.png)
 
 
 
