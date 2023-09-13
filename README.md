@@ -84,7 +84,7 @@ Utilizando los datos resultantes del proceso ETL, se llevó a cabo un análisis 
 
 A medida que se desentrañaban los entresijos de los datos, se tomaron decisiones críticas que influyeron en la dirección del proyecto. La identificación de patrones y atributos relevantes se convirtió en un pilar esencial para construir la base de las funciones API y el sistema de recomendación que se desarrollaría posteriormente. La calidad del análisis realizado durante el EDA estableció el terreno para la creación de soluciones sólidas y eficientes que aprovecharían al máximo la información extraída de los datos procesados en la etapa de ETL.
 
-![Distribución de Edades de las Víctimas](distribucion_tipo_calle.jpg)
+![Distribución de Edades de las Víctimas](https://github.com/Yuliedpardo/PI_DA/blob/main/distribucion_tipo_calle.jpg?raw=true)
 
 
 
