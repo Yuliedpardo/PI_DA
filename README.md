@@ -86,7 +86,7 @@ A medida que se desentrañaban los entresijos de los datos, se tomaron decisione
 <p align="center">
   <img src="tipo de calle.png" width="350" title="hover text">
 </p>
-
+![victimas por comunas](imagen.png)
 
 Este proceso integral, que abarcó desde la transformación de datos hasta el análisis exploratorio y la construcción de soluciones tecnológicas avanzadas, encapsula la esencia misma del proyecto. Cada paso contribuyó de manera sinérgica para dar vida a una plataforma sólida y versátil, preparada para ofrecer recomendaciones precisas y una experiencia de usuario excepcional.
 
