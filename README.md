@@ -21,8 +21,6 @@ En este contexto, surge nuestro proyecto individual, una iniciativa que busca ut
 Este proyecto no solo es una oportunidad para aplicar nuestras habilidades de análisis de datos, sino también un compromiso con la seguridad y el bienestar de la comunidad. A través de este informe, te invitamos a explorar nuestro enfoque y descubrir cómo los datos pueden desempeñar un papel fundamental en la construcción de una ciudad más segura en las carreteras de Buenos Aires.
 ---
 
-Puedes personalizar esta introducción según las especificaciones y detalles específicos de tu proyecto.
-
 ***¡Disfruta del recorrido!***
 
 ## Objetivo
