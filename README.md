@@ -83,10 +83,8 @@ Utilizando los datos resultantes del proceso ETL, se llevó a cabo un análisis 
 A medida que se desentrañaban los entresijos de los datos, se tomaron decisiones críticas que influyeron en la dirección del proyecto. La identificación de patrones y atributos relevantes se convirtió en un pilar esencial para construir la base de las funciones API y el sistema de recomendación que se desarrollaría posteriormente. La calidad del análisis realizado durante el EDA estableció el terreno para la creación de soluciones sólidas y eficientes que aprovecharían al máximo la información extraída de los datos procesados en la etapa de ETL.
 
 
-<p align="center">
-  <img src="tipo de calle.png" width="350" title="hover text">
-</p>
-![victimas por comunas](imagen.png)
+
+![victimas por comunas]([imagen.png](https://github.com/Yuliedpardo/PI_DA/blob/main/imagen.png))
 
 Este proceso integral, que abarcó desde la transformación de datos hasta el análisis exploratorio y la construcción de soluciones tecnológicas avanzadas, encapsula la esencia misma del proyecto. Cada paso contribuyó de manera sinérgica para dar vida a una plataforma sólida y versátil, preparada para ofrecer recomendaciones precisas y una experiencia de usuario excepcional.
 
