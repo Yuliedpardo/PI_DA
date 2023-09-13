@@ -84,7 +84,7 @@ A medida que se desentrañaban los entresijos de los datos, se tomaron decisione
 
 
 
-![victimas por comunas]((https://github.com/Yuliedpardo/PI_DA/blob/main/imagen.png))
+![victimas por comunas](https://github.com/Yuliedpardo/PI_DA/blob/main/imagen.png)
 
 Este proceso integral, que abarcó desde la transformación de datos hasta el análisis exploratorio y la construcción de soluciones tecnológicas avanzadas, encapsula la esencia misma del proyecto. Cada paso contribuyó de manera sinérgica para dar vida a una plataforma sólida y versátil, preparada para ofrecer recomendaciones precisas y una experiencia de usuario excepcional.
 
