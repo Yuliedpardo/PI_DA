@@ -85,7 +85,7 @@ acontinuacion haremos un analisis exahustivo por categoria
 **1. Relación entre AÑO y el Número de Víctimas :**
 
 
-![Relación entre AÑO y el Número de Víctimas](imagen.png)
+
 
 Este proceso integral, que abarcó desde la transformación de datos hasta el análisis exploratorio y la construcción de soluciones tecnológicas avanzadas, encapsula la esencia misma del proyecto. Cada paso contribuyó de manera sinérgica para dar vida a una plataforma sólida y versátil, preparada para ofrecer recomendaciones precisas y una experiencia de usuario excepcional.
 
